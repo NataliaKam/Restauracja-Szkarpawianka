@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Restauracja Tawerna Szkarpawianka</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+ 
+<div id="container">
+
+<header> 
+<img src="images/15.jpg" />
+
+</header>
+ 
+<!-- sidebar -->
+<ul class="sidenav">
+  <li><a href="index.html" title="Strona główna">Strona główna</a></li>
+ <li><a href="Aktualnosci.html" title="Aktualności">Aktualności</a></li>
+  <li><a href="Galeria.html" title="Galeria">Galeria</a></li>
+ <li><a href="Kontakt.html" title="Kontakt">Kontakt</a></li>
+</ul>
+
+<div class="responsive">
+ <div class="gallery">
+  <a target="_blank" href="images/16.jpg">
+    <img src="images/16.jpg" width="240" height="135">
+  </a>
+</div>
